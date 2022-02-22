@@ -31,7 +31,7 @@
     
         In this project, we have taken the top 10 crops which solves the majority of 
     consequences when the parameters consist of the location and weather conditions. The accurate 
-    prediction of crops across the world will help people to make a clear decision in choosing a suitable crop 
-    for yield.
+    prediction of crops across the world will help people to make a clear decision in choosing a suitable 
+    crop for yield.
 
 
